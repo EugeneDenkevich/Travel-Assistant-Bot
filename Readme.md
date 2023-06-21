@@ -13,5 +13,3 @@ To run client bot:
 ```bash
 python main_client.py" from src/client
 ```
-
-> Projest is freezed.
