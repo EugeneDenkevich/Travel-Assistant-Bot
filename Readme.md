@@ -8,14 +8,14 @@ This bot was created to help clients find manors and help owners to public their
 
 ### Done:
 - Registration
-- logging in
-- logging out
-- slider galerias
-- searching
-- notification
-- orders
-- filter checkbox
-- client’s and admin’s pars
+- Logging in
+- Logging out
+- Slider galerias
+- Searching
+- Notification
+- Orders
+- Filter checkbox
+- Client’s and admin’s pars
 
 Firstly configure the .env.exapmple file and type:
 ```bash
