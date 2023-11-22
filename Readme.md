@@ -1,5 +1,21 @@
 # Travel-Assistant Bot
-## This bot was created to help clients find manors and help owners to public their offers
+This bot was created to help clients find manors and help owners to public their offers
+
+### Used:
+- Aiogram
+- MySQL
+- APScheduler
+
+### Done:
+- Registration
+- logging in
+- logging out
+- slider galerias
+- searching
+- notification
+- orders
+- filter checkbox
+- client’s and admin’s pars
 
 Firstly configure the .env.exapmple file and type:
 ```bash
